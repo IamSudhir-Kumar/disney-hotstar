@@ -1,4 +1,4 @@
-# OTT Platform Project Repository
+# OTT Platform Project Repository 🎬🎥🎬
 
 ## Overview
 
